@@ -1,0 +1,41 @@
+
+  .headerClass {
+    font-weight: bold;
+    font-family:'Calibry';
+    text-align: center;
+    color: rgb(2, 2, 2); 
+    background: linear-gradient(to right, rgb(250, 129, 129), rgb(253, 255, 122));
+  
+  } 
+  hr {
+    border: 1px solid rgb(4, 142, 255);
+    
+  }
+  
+  body{
+    text-align: center;
+    background-color: rgb(236, 255, 218);
+    
+  }
+  .list{
+   
+    background: linear-gradient(to right, rgb(250, 129, 129), rgb(253, 255, 122));
+  
+  }
+   
+    .content{
+    text-align: center;
+    }
+    
+    footer {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(2, 2, 2);
+    background: linear-gradient(to right, rgb(250, 129, 129), rgb(253, 255, 122));
+    }
+    
+    #back {
+      width: 20px;
+    }
+    
+    
